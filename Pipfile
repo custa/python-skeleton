@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 requests = "*"
 flask = "*"
+flask-apscheduler = "*"
+flask-httpauth = "*"
 
 [requires]
 python_version = "3.7"
